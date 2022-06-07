@@ -2,12 +2,15 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    Developer : Nata Inditama
+    Contact: natainditama.my.id
+    Github: github.com/natainditama
 
 # THANKS
 
-    <name>
+    @h5bp (https://twitter.com/h5bp)
+    @tailwindcss (https://twitter.com/tailwindcss)
+    @jquery (https://twitter.com/jquery)
 
 # TECHNOLOGY COLOPHON
 

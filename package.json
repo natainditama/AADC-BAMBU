@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "aadc-bambu",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "description": "Video sharing platform for AADC Bambu Youtube channel",
+  "keywords": "youtube, aadc, bambu, video, sharing, platform, youtube, aadc bambu",
+  "license": "MIT",
+  "author": "natainditama",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
